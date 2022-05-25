@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Neverlivedordied/links/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Neverlivedordied/links/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p>
+<html>
+<body>
+<button onclick="location.href ='https://github.com/Neverlivedordied/Neverlivedordied.github.io/edit/gh-pages/index.md';" id="myButton" class="float-left submit-button" >MAIN MENU</button>
+<button onclick="location.href = 'https://neverlivedordied.github.io/resume/index.html';" id="myButton" class="float-left submit-button" >Resume</button>
+  <button onclick="location.href = 'https://neverlivedordied.github.io/About-Me/index.html';" id="myButton" class="float-left submit-button" >About-me</button>
+  <button onclick="location.href = 'https://neverlivedordied.github.io/chatroom/index.html';" id="myButton" class="float-left submit-button" >chatroom?</button>
+  <button onclick="location.href = 'https://neverlivedordied.github.io/HELPFULL-STUFF';" id="myButton" class="float-left submit-button" >stuff-to-do</button>
+  <button onclick="location.href = 'https://countdown-never.w3spaces.com/';" id="myButton" class="float-left submit-button" >countdown</button>
+ <br>
+  
+  
+  
+  <p align="center">
+  
+  <font size="+10">LINKS TO SOCIALS</font> <br>
+  </p>
+  
+  
+  
+  
+  
+  <p align="left">
+    <a href="https//twitter.com/neverlivedied">My Twitter</a>
+  </p>
+ <p align="right">
+  </P>
